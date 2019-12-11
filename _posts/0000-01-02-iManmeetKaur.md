@@ -2,6 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-My text
+>Something new is gonna happen
 Hi, there !
 I have started learning git and GitHub.
